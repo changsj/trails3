@@ -1,10 +1,4 @@
-#### A blank template for rails
-
-This template contains all that "rails new demo" contains, specifying ruby -v and rails -v in development environment.
-
-Besides, it contains a useful .gitignore file (only ignore *~) and a to-do list.
-
-For production environment, it contains the settings with Procfile and unicorn, which works well with Heroku.
+#### Trails 3
 
 ##### Github password cache
 ```
